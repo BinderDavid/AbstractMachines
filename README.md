@@ -43,6 +43,9 @@ Abstract machines for functional programming languages
 
 ### SK Machine
 
+* David Turner (1979), A new implementation technique for applicative languages
+  [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.4380090105)
+
 ### G-Machine
 
 ### Krivine Machine
