@@ -20,6 +20,16 @@ Abstract machines for functional programming languages
 
  * R.J.M. Hughes (1982), Super-combinators: A new implementation method for applicative languages
    [Link](https://dl.acm.org/citation.cfm?id=802129)
+   > The key to the new approach is to generalise the class of combinators [W.r.t David Turner's approach of compiling lambda expressions to SKI]. Recall that S, K, and I can be
+   > defined by lambda-expressions (...).
+   > These lambda-expressions have two special properties that make them suitable for use directly as operators in a graph
+   > reduction machine. Firstly, they have no free variables and so are "pure code", hence their internal structur is of no consequence
+   > and any suitable representation may be used for them.
+   > Secondly, their bodies are applicative forms, ie are composed from variables and constants by applications.
+   > ...
+   > Any lambda-expression with these two properties is a combinator (...)
+   > Where it is necessary to distinguish generalised combinators from Turner's, they are called super-combinators.
+   
  * R.J.M. Hughes (1982), Graph-Reduction with Super-Combinators
    [Link](https://www.cs.ox.ac.uk/publications/publication3771-abstract.html)
    
