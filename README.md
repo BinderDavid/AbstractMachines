@@ -20,6 +20,8 @@ Abstract machines for functional programming languages
 
  * R.J.M. Hughes (1982), Super-combinators: A new implementation method for applicative languages
    [Link](https://dl.acm.org/citation.cfm?id=802129)
+ * R.J.M. Hughes (1982), Graph-Reduction with Super-Combinators
+   [Link](https://www.cs.ox.ac.uk/publications/publication3771-abstract.html)
    
 ## Strict languages
 
