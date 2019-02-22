@@ -13,6 +13,11 @@ Abstract machines for functional programming languages
    [Link](https://www.microsoft.com/en-us/research/publication/the-implementation-of-functional-programming-languages/)
  * Simon Peyton Jones (1992), Implementing functional languages: A tutorial
    [Link](https://www.microsoft.com/en-us/research/publication/implementing-functional-languages-a-tutorial/)
+
+## Other
+
+ * R.J.M. Hughes (1982), Super-combinators: A new implementation method for applicative languages
+   [Link](https://dl.acm.org/citation.cfm?id=802129)
    
 ## Strict languages
 
