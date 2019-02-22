@@ -35,9 +35,11 @@ Abstract machines for functional programming languages
    
 ## Strict languages
 
-### CEK
+### CEK/CESK
 
 * Matt Might blog post [Link](http://matt.might.net/articles/cek-machines/)
+* dito [Link](http://matt.might.net/articles/cesk-machines/)
+
 
 ### SECD Machine
 
