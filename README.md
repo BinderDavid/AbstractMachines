@@ -18,6 +18,9 @@ Abstract machines for functional programming languages
 
 ### SECD Machine
 
+* Landin (1964), The mechanical evaluation of expressions
+  [Link](https://www.cs.cmu.edu/~crary/819-f09/Landin64.pdf)
+
 ### Functional Abstract Machine (FAM)
 
 ### Categorical Abstract Machine (CAM)
