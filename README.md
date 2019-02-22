@@ -63,3 +63,7 @@ Abstract machines for functional programming languages
 ### Three Instruction Machine (TIM)
 
 ### Spineless Tagless G-Machine (STG)
+* Simon Peyton Jones (1992), Implementing lazy functional languages on stock hardware, the spineless tagless G-Machine
+  [Link](https://www.microsoft.com/en-us/research/publication/implementing-lazy-functional-languages-on-stock-hardware-the-spineless-tagless-g-machine/)
+* STGi Implementation on Hackage
+  [Link](http://hackage.haskell.org/package/stgi)
