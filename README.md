@@ -62,6 +62,11 @@ Abstract machines for functional programming languages
 
 ### Three Instruction Machine (TIM)
 
+* J. Fairbairn, S.C. Wray (1987), TIM: A simple lazy abstract machine to execute supercombinators
+  [Link](https://link.springer.com/chapter/10.1007/3-540-18317-5_3)
+* G. Argo (1989), Improving the three instruction machine
+  [Link](https://dl.acm.org/citation.cfm?id=99370.99378)
+
 ### Spineless Tagless G-Machine (STG)
 * Simon Peyton Jones (1992), Implementing lazy functional languages on stock hardware, the spineless tagless G-Machine
   [Link](https://www.microsoft.com/en-us/research/publication/implementing-lazy-functional-languages-on-stock-hardware-the-spineless-tagless-g-machine/)
