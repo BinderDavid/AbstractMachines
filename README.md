@@ -54,9 +54,9 @@ Abstract machines for functional programming languages
 ### G-Machine
 
 * L. Augustsson (1984), A compiler for lazy ML
-  [Link](todo)
+  [Link](https://dl.acm.org/citation.cfm?id=802038)
 * T. Johnsson (1984), Efficient compilation of lazy evaluation
-  [Link](todo)
+  [Link](https://dl.acm.org/citation.cfm?id=502880)
 
 ### Krivine Machine
 
