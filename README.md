@@ -13,6 +13,8 @@ Abstract machines for functional programming languages
    [Link](https://www.microsoft.com/en-us/research/publication/the-implementation-of-functional-programming-languages/)
  * Simon Peyton Jones (1992), Implementing functional languages: A tutorial
    [Link](https://www.microsoft.com/en-us/research/publication/implementing-functional-languages-a-tutorial/)
+ * Werner Kluge (2004), Abstract Computing Machines: A Lambda Calculus Perspective
+   [Link](https://www.springer.com/de/book/9783540211464)
 
 ## Other
 
