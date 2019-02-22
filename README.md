@@ -48,7 +48,17 @@ Abstract machines for functional programming languages
 
 ### G-Machine
 
+* L. Augustsson (1984), A compiler for lazy ML
+  [Link](todo)
+* T. Johnsson (1984), Efficient compilation of lazy evaluation
+  [Link](todo)
+
 ### Krivine Machine
+
+* Remi Douence, Pascal Fradet (2007), The next 700 Krivine machines
+  [Link](https://link.springer.com/article/10.1007/s10990-007-9016-y)
+* Jean-Louis Krivine (2007), A call-by-name lambda-calculus machine
+  [Link](http://www.pps.univ-paris-diderot.fr/~krivine/articles/lazymach.pdf)
 
 ### Three Instruction Machine (TIM)
 
