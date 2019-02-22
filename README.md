@@ -36,6 +36,9 @@ Abstract machines for functional programming languages
 
 ### Zinc Abstract Machine
 
+* Xavier Leroy (1990), The Zinc experiment: An economical implementation of the ML language
+  [Link](https://xavierleroy.org/publi/ZINC.pdf)
+  
 ## Lazy Languages
 
 ### SK Machine
