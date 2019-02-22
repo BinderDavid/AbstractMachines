@@ -23,6 +23,10 @@ Abstract machines for functional programming languages
    
 ## Strict languages
 
+### CEK
+
+* Matt Might blog post [Link](http://matt.might.net/articles/cek-machines/)
+
 ### SECD Machine
 
 * Landin (1964), The mechanical evaluation of expressions
