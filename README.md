@@ -26,10 +26,13 @@ Abstract machines for functional programming languages
 * Luca Cardelli (1983), The functional abstract machine, Technical Report
   [Link](http://lucacardelli.name/Papers/FAM.pdf)
 
-* Luca Cardelli (1984), Compiling a functional language, Lisp and Functional Programming
+* Luca Cardelli (1984), Compiling a functional language
   [Link](http://lucacardelli.name/Papers/CompilingML.A4.pdf)
 
 ### Categorical Abstract Machine (CAM)
+
+* Cousineau, Curien, Mauny (1985), The Categorical Abstract Machine
+  [Link](https://www.sciencedirect.com/science/article/pii/0167642387900207)
 
 ### Zinc Abstract Machine
 
