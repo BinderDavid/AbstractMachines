@@ -1,4 +1,4 @@
-# AbstractMachines
+# Abstract Machines
 
 Abstract machines for functional programming languages
 
@@ -22,6 +22,12 @@ Abstract machines for functional programming languages
   [Link](https://www.cs.cmu.edu/~crary/819-f09/Landin64.pdf)
 
 ### Functional Abstract Machine (FAM)
+
+* Luca Cardelli (1983), The functional abstract machine, Technical Report
+  [Link](http://lucacardelli.name/Papers/FAM.pdf)
+
+* Luca Cardelli (1984), Compiling a functional language, Lisp and Functional Programming
+  [Link](http://lucacardelli.name/Papers/CompilingML.A4.pdf)
 
 ### Categorical Abstract Machine (CAM)
 
